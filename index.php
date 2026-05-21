@@ -63,7 +63,7 @@ $equipos = $coleccion->find();
                                 <option value="Fuera de Servicio">Fuera de Servicio ❌</option>
                             </select>
                         </div>
-                        <button class="btn btn-primary w-100" type="submit">Registrar Dispositivo</button>
+                        <button class="btn btn-warning w-100" type="submit">Registrar Dispositivo</button>
                     </form>
                 </div>
             </div>
